@@ -1,0 +1,161 @@
+
+.html {
+    position: absolute;
+    width: auto;
+}
+
+.body {
+    position: relative;
+    width: auto;
+    left: 0px;
+    margin: 0px;
+    border-radius: 0px;
+    top: 0px;
+
+    
+}
+.txt-desconto {
+    position: relative;
+    background-color: #1CD1B0;
+    width:auto;
+    height: 38px;
+    top: 0px;
+    margin: 0px;
+}
+.desconto{
+    position: relative;
+    left: 10px;
+    top: 10px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+}
+.txt-titulo{ 
+
+    position: relative;
+    width: auto;
+    height: 101px;
+    top: 0px;
+    background: #00669F;
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+    margin: 0px;
+
+}
+.titulo {
+    position: relative;
+    left: 20px;
+    top: 30px;    
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+color: #000000;
+ margin: 0px;
+}
+.background {
+    position: relative;
+    left: 0px;
+    width: 374px;
+    height: 300px;
+    top: -30px;
+
+}
+
+.infos {
+    position: relative;
+    width: 300px;
+    height: 80px;
+    top: -150px;
+    left: 40px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #333333;
+}
+ 
+.icon {
+    position: relative;
+    top: 40px;
+    left: 5px;
+}
+
+.personagem {
+    position: relative;
+    top: -150px;
+    left: 118px;
+    border-radius: 50%;
+}
+ .prsgm-name {
+     position: relative;
+     top: -150px;
+     text-align: center;
+     font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+ }
+.botao {
+    position: relative;
+    background-color: #00669F;
+    width: 145.34px;
+    height: 54.76px;
+    left: 110px;
+    top: -110px;
+
+}
+.botao-style{ 
+    position: relative;
+    top: 20px;
+    left: 43px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    color: #F3F3F3;
+
+}
+.card-Batman{
+    position: relative;
+    left: 185px;
+    width: 374px;
+    height: 600px;
+    top: 47px;
+    background: #F3F3F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 16px 16px 0px 0px;
+    
+}
+.card-Harley{
+    position: relative;
+    left: 790px;
+    width: 374px;
+    height: 600px;
+    top: -555px;
+    background: #F3F3F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 16px 16px 0px 0px;
+}
+.footer-text{
+position: relative;
+font-family: Roboto;
+top: 10px;
+left: 10px;
+font-style: normal;
+font-weight: normal;
+line-height: 19px;
+color: #FFF9F9;
+}
+.footer {
+    position: relative;
+    width: auto;
+    height: 51px;
+    background-color: #00669F;
+}
+.main {
+    height: 700px;
+}
